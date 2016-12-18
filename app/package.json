@@ -1,0 +1,12 @@
+{
+  "name": "ham-log-it",
+  "version": "0.0.0",
+  "description": "HAM contact logger",
+  "main": "electron.js",
+  "dependencies": {
+    "vue": "^2.0.1",
+    "vue-electron": "^1.0.0"
+  },
+  "devDependencies": {},
+  "author": "Regis <boudinot.regis@yahoo.com>"
+}
