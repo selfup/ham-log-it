@@ -2,10 +2,6 @@
 
 > HAM contact logger
 
-# DISCLAIMER
-
-This is a continuation of HAM Radio Apps
-
 ## Build Setup
 
 ``` bash
